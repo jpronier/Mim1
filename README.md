@@ -1,3 +1,3 @@
 # Mim1
 
-## This is a test 
+## This is training repository, to get familiar with the use of git  
